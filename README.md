@@ -1,8 +1,6 @@
 
-#🚏 SenseRoute
- ### -An IoT-Powered Ecosystem for Safe Navigation and Transport Detection
-
- ---
+# 🚏 SenseRoute
+ ### -An IoT-Powered Ecosystem for Safe Navigation and Transport Detection ---
 🚶‍♂️ IoT-Based Assistive Devices for the Visually Impaired
 SenseRoute enhances the navigation, safety, and independence of visually impaired individuals, especially in public transportation environments, through a set of integrated IoT-based assistive devices.
 
@@ -26,14 +24,14 @@ The system consists of three core components working together to provide real-ti
 
  - Contains an RFID reader to detect public transport via RFID tags placed on buses.
 
-👓 Smart Glasses
+## 👓 Smart Glasses---
  - Includes head-level ultrasonic sensors to detect overhead obstacles (e.g., signboards, tree branches).
 
  - Alerts the user via buzzer or vibration feedback, improving safety in complex environments.
 
  - Receives data from the smart cane over the ESP-NOW wireless protocol, ensuring low-latency communication.
 
-🚌 Transport Detection System
+## 🚌 Transport Detection System ---
  - RFID tags are placed on public transportation vehicles (e.g., buses).
 
  - The RFID reader embedded in the smart cane detects these tags.
@@ -42,12 +40,12 @@ The system consists of three core components working together to provide real-ti
 
  - Helps users identify and board public transport independently and on time.
 
-🔗 Communication Architecture
+## 🔗 Communication Architecture ---
  - Utilizes the ESP-NOW protocol for fast and energy-efficient wireless communication between the smart cane and smart glasses.
 
  - Designed for low-power operation and real-time responsiveness.
 
-💡 Key Features
+## 💡 Key Features ---
 ✅ Multi-level obstacle detection (ground + head height)
 
 ✅ Haptic and audio feedback for enhanced awareness
@@ -58,7 +56,7 @@ The system consists of three core components working together to provide real-ti
 
 ✅ Customizable and scalable for various urban settings
 
-⚙️ Technologies Used
+## ⚙️ Technologies Used ---
 🔌 ESP32 Microcontrollers
 
 📡 Ultrasonic Sensors
