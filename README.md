@@ -54,7 +54,7 @@ The system consists of three core components working together to provide real-ti
 💡 Key Features 
 ---
 
-✅ Multi-level obstacle detection (ground + head height)
+✅ Multi-level obstacle detection (ground + head level)
 
 ✅ Haptic and audio feedback for enhanced awareness
 
