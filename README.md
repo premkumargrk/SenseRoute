@@ -1,17 +1,16 @@
-# SenseRoute 
-  - An IoT-Powered Ecosystem for Safe Navigation and Transport Detection
-
+🚏 SenseRoute
+An IoT-Powered Ecosystem for Safe Navigation and Transport Detection
 🚶‍♂️ IoT-Based Assistive Devices for the Visually Impaired
-This project aims to enhance the navigation, safety, and independence of visually impaired individuals, especially in public transportation environments, through a set of integrated IoT-based assistive devices.
+SenseRoute enhances the navigation, safety, and independence of visually impaired individuals, especially in public transportation environments, through a set of integrated IoT-based assistive devices.
 
 📦 System Overview
 The system consists of three core components working together to provide real-time situational awareness and transport information:
 
- - Smart Cane
+🦯 Smart Cane
 
- - Smart Glass
+👓 Smart Glasses
 
- - Transport Detection System
+🚌 Transport Detection System
 
 🦯 Smart Cane
 Equipped with ultrasonic sensors to detect ground-level obstacles like potholes and barriers.
@@ -32,36 +31,35 @@ RFID tags are placed on public transportation vehicles (e.g., buses).
 
 The RFID reader embedded in the smart cane detects these tags.
 
-Real-time transport info is transmitted wirelessly to the smart glasses, which then provide audio feedback about the approaching vehicle.
+Real-time transport info is transmitted wirelessly to the smart glasses, which provide audio feedback about the approaching vehicle.
 
-This helps users identify and board public transport independently and on time.
+Helps users identify and board public transport independently and on time.
 
 🔗 Communication Architecture
-Uses ESP-NOW protocol for fast and energy-efficient wireless communication between the smart cane and smart glasses.
+Utilizes the ESP-NOW protocol for fast and energy-efficient wireless communication between the smart cane and smart glasses.
 
 Designed for low-power operation and real-time responsiveness.
 
 💡 Key Features
-Multi-level obstacle detection (ground + head height)
+✅ Multi-level obstacle detection (ground + head height)
 
-Haptic and audio feedback for enhanced awareness
+✅ Haptic and audio feedback for enhanced awareness
 
-RFID-based public transport recognition
+✅ RFID-based public transport recognition
 
-Wireless, real-time inter-device communication
+✅ Wireless, real-time inter-device communication
 
-Customizable and scalable for different urban environments
+✅ Customizable and scalable for various urban settings
 
 ⚙️ Technologies Used
-ESP32 Microcontrollers
+🔌 ESP32 Microcontrollers
 
-Ultrasonic Sensors
+📡 Ultrasonic Sensors
 
-RFID Reader/Tags (MFRC522)
+🏷️ RFID Reader/Tags (MFRC522)
 
-Vibration Motors & Buzzers
+🔊 Vibration Motors & Buzzers
 
-ESP-NOW Communication Protocol
+📶 ESP-NOW Communication Protocol
 
-Li-ion Battery Power Supply
-
+🔋 Li-ion Battery Power Supply
