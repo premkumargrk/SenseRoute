@@ -1,10 +1,14 @@
-🚏 SenseRoute
- -> An IoT-Powered Ecosystem for Safe Navigation and Transport Detection
- 
+
+#🚏 SenseRoute
+ ### -An IoT-Powered Ecosystem for Safe Navigation and Transport Detection
+
+ ---
 🚶‍♂️ IoT-Based Assistive Devices for the Visually Impaired
 SenseRoute enhances the navigation, safety, and independence of visually impaired individuals, especially in public transportation environments, through a set of integrated IoT-based assistive devices.
 
-📦 System Overview
+##📦 System Overview
+---
+
 The system consists of three core components working together to provide real-time situational awareness and transport information:
 
 🦯 Smart Cane
@@ -13,7 +17,9 @@ The system consists of three core components working together to provide real-ti
 
 🚌 Transport Detection System
 
-🦯 Smart Cane
+##🦯 Smart Cane
+---
+
  - Equipped with ultrasonic sensors to detect ground-level obstacles like potholes and barriers.
 
  - Provides haptic feedback using vibration motors to alert the user of nearby hazards.
