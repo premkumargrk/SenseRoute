@@ -7,11 +7,11 @@ This project aims to enhance the navigation, safety, and independence of visuall
 📦 System Overview
 The system consists of three core components working together to provide real-time situational awareness and transport information:
 
-Smart Cane
+ - Smart Cane
 
-Smart Glasses
+ - Smart Glass
 
-Transport Detection System
+ - Transport Detection System
 
 🦯 Smart Cane
 Equipped with ultrasonic sensors to detect ground-level obstacles like potholes and barriers.
